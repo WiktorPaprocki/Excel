@@ -10,7 +10,7 @@ Dataset is provided in files as "Excel Project Dataset.xlsx"
 - Replaced "M" with "Male" and "F" with "Female" in Gender column
 - Created new column "Age Brackets" using IFS formula
 
-## Pivot Tables
+## Pivot Tables and Charts
 Created pivot tables and charts for dashboard:
 - AVG Income Per Purhcase column chart
 - Customer Commute line chart
@@ -18,4 +18,7 @@ Created pivot tables and charts for dashboard:
 - Male vs Female Bike Buyers Doughnut Chart
 - Percentage of People Married Doughnut Chart
 - Home Owners Doughnut Chart
+
+## Dashboard
+Created dashboard with the charts above and 
 
