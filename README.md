@@ -21,5 +21,7 @@ Created pivot tables and charts for dashboard:
 
 ## Dashboard
 Created dashboard with the charts above and filters (created new slicer style for dashboard)
+![Zrzut ekranu 2023-07-25 124533](https://github.com/WiktorPaprocki/Excel-Project/assets/125204368/5fea0347-3056-4cef-9d9d-31fb132a6ad5)
+
 
 
