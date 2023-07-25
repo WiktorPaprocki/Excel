@@ -20,5 +20,6 @@ Created pivot tables and charts for dashboard:
 - Home Owners Doughnut Chart
 
 ## Dashboard
-Created dashboard with the charts above and 
+Created dashboard with the charts above and filters (created new slicer style for dashboard)
+
 
