@@ -7,4 +7,6 @@ Dataset is provided in files as "Excel Project Dataset.xlsx"
 - Created Working Sheet, Pivot Table and Dashboard Sheets
 - Removed Duplicates
 - replaced "M" with "Married" and "S" with "Single" in Marital Status column
+- replaced "M" with "Male" and "F" with "Female" in Gender column
+- 
 
